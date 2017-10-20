@@ -9,9 +9,6 @@ package com.prueba;
  *
  * @author laura
  */
-public class ClasePruebaGit {
-     public String metodoPrueba(String param1){
-         String var1 = "Prueba " + param1; 
-        return var1;
-    }
+public class ClasePruebaGit2 {
+    
 }
